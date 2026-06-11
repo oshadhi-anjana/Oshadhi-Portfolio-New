@@ -1000,3 +1000,19 @@ ul { list-style: none; }
     transition-duration: 0.01ms !important;
   }
 }
+/* Icon sizing inside contact items */
+.contact__icon {
+  font-size: 1.3rem;
+  color: var(--teal);
+}
+
+.contact__icon i {
+  font-size: 1.3rem;
+  color: var(--teal);
+}
+
+/* Icon sizing inside social buttons */
+.social-btn i {
+  font-size: 1rem;
+  color: inherit;
+}
